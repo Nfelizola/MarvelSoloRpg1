@@ -1,0 +1,1479 @@
+.account, .account * {
+     box-sizing: border-box;
+     }
+.account {
+    background: #ffffff;
+    
+            display: flex;
+    
+            flex-direction: column;
+    
+            gap: 10px;
+    
+            align-items: flex-start;
+    
+            justify-content: flex-start;
+    
+            
+        
+            position: relative;
+    
+        overflow: hidden;
+    }
+
+ .landscape {
+    background: radial-gradient(closest-side, rgba(0, 0, 0, 0.00) 0%,rgba(0, 0, 0, 1.00) 100%,rgba(0, 0, 0, 0.13) 100%), linear-gradient(180.14deg, rgba(0, 73, 125, 1.00) 0%,rgba(137, 0, 0, 0.35) 100%);
+    flex-shrink: 0;
+    width: 835px;
+     height: 412px;
+    
+            position: relative;
+    
+        }
+
+ .galaxy {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 0%,rgba(0, 0, 0, 1.00) 100%);
+    opacity: 0.4000000059604645;
+    flex-shrink: 0;
+    width: 834px;
+     height: 412px;
+    
+            position: absolute;
+     left: 0px;
+    top: 0px;
+    
+        }
+
+ .galaxy2 {
+    background: radial-gradient(closest-side, rgba(0, 0, 0, 0.00) 0%,rgba(0, 0, 0, 1.00) 100%);
+    opacity: 0.8799999952316284;
+    flex-shrink: 0;
+    width: 834px;
+     height: 412px;
+    
+            position: absolute;
+     left: 0px;
+    top: 0px;
+    
+        }
+
+ .header {
+    flex-shrink: 0;
+    width: 834px;
+     height: 48px;
+    
+            position: static;
+    
+        }
+
+ .container {
+    width: 834px;
+     height: 48px;
+    
+            position: absolute;
+     left: 0px;
+    top: 0px;
+    
+        overflow: visible;
+    }
+
+ .back {
+    width: 100px;
+     height: 24px;
+    
+            position: static;
+    
+        }
+
+ .arrow-left {
+    width: 24px;
+     height: 24px;
+    
+            position: absolute;
+     left: 12px;
+    top: 12px;
+    
+        overflow: visible;
+    }
+
+ .account2 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 16px/16px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 40px;
+    top: 16px;
+    
+        }
+
+ .menus-top-right {
+    width: 364px;
+     height: 22px;
+    
+            position: static;
+    
+        }
+
+ .currencies {
+    
+            display: flex;
+    
+            flex-direction: row;
+    
+            gap: 16px;
+    
+            align-items: center;
+    
+            justify-content: flex-start;
+    
+            
+        
+            position: absolute;
+     left: 458px;
+    top: 6px;
+    
+        overflow: hidden;
+    }
+
+ .golds {
+    flex-shrink: 0;
+    width: 50px;
+     height: 20px;
+    
+            position: static;
+    
+        }
+
+ .gold {
+    width: 20px;
+     height: 20px;
+    
+            position: static;
+    
+        }
+
+ .ellipse-2 {
+    background: #c4c4c4;
+    border-radius: 50%;
+    width: 20px;
+     height: 20px;
+    
+            position: absolute;
+     left: 0px;
+    top: 0px;
+    
+        }
+
+ .screenshot-20191228-231537 {
+    width: 1085.71px;
+     height: 514.29px;
+    
+            position: absolute;
+     left: -715px;
+    top: -15.71px;
+    
+        }
+
+ ._1016 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 12px/12px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 24px;
+    top: 4px;
+    
+        }
+
+ .diamonds {
+    flex-shrink: 0;
+    width: 61px;
+     height: 20px;
+    
+            position: static;
+    
+        }
+
+ .diamond {
+    width: 12px;
+     height: 20px;
+    
+            position: absolute;
+     left: 66px;
+    top: 0px;
+    
+        overflow: visible;
+    }
+
+ ._1149 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 12px/12px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 82px;
+    top: 4px;
+    
+        }
+
+ .add {
+    width: 16px;
+     height: 16px;
+    
+            position: absolute;
+     left: 111px;
+    top: 2px;
+    
+        overflow: visible;
+    }
+
+ .vouchers {
+    flex-shrink: 0;
+    width: 59px;
+     height: 20px;
+    
+            position: static;
+    
+        }
+
+ .voucher {
+    width: 20px;
+     height: 20px;
+    
+            position: absolute;
+     left: 143px;
+    top: 0px;
+    
+        overflow: visible;
+    }
+
+ ._55 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 12px/12px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 167px;
+    top: 4px;
+    
+        }
+
+ .add2 {
+    width: 16px;
+     height: 16px;
+    
+            position: absolute;
+     left: 186px;
+    top: 2px;
+    
+        overflow: visible;
+    }
+
+ .icons {
+    
+            display: flex;
+    
+            flex-direction: row;
+    
+            gap: 12px;
+    
+            align-items: center;
+    
+            justify-content: flex-start;
+    
+            
+        
+            position: absolute;
+     left: 676px;
+    top: 6px;
+    
+        overflow: hidden;
+    }
+
+ .friends {
+    flex-shrink: 0;
+    width: 20px;
+     height: 20px;
+    
+            position: relative;
+    
+        overflow: visible;
+    }
+
+ .inbox {
+    flex-shrink: 0;
+    width: 20px;
+     height: 20px;
+    
+            position: relative;
+    
+        overflow: visible;
+    }
+
+ .settings {
+    flex-shrink: 0;
+    width: 20px;
+     height: 20px;
+    
+            position: relative;
+    
+        overflow: visible;
+    }
+
+ .battery {
+    flex-shrink: 0;
+    width: 20px;
+     height: 20px;
+    
+            position: relative;
+    
+        
+            transform: translate(-20px, 0px);
+    
+        overflow: visible;
+    }
+
+ .wifi {
+    flex-shrink: 0;
+    width: 18px;
+     height: 18px;
+    
+            position: relative;
+    
+        overflow: visible;
+    }
+
+ .notification {
+    background: #e02b2b;
+    border-radius: 50%;
+    
+            position: absolute;
+     right: 16.17%;
+     left: 82.63%;
+     width: 1.2%;
+    bottom: 96.6%;
+     top: 0.97%;
+     height: 2.43%;
+    
+        }
+
+ .menus-left {
+    flex-shrink: 0;
+    width: 180px;
+     height: 84px;
+    
+            position: static;
+    
+        }
+
+ .overview {
+    width: 180px;
+     height: 40px;
+    
+            position: static;
+    
+        }
+
+ .container2 {
+    width: 180px;
+     height: 40px;
+    
+            position: absolute;
+     left: 60px;
+    top: 60px;
+    
+        overflow: visible;
+    }
+
+ .overview2 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 16px/20px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 72px;
+    top: 70px;
+    
+        }
+
+ .arrow-right {
+    width: 20px;
+     height: 20px;
+    
+            position: absolute;
+     left: 212px;
+    top: 70px;
+    
+        overflow: visible;
+    }
+
+ .match-records {
+    width: 180px;
+     height: 40px;
+    
+            position: static;
+    
+        }
+
+ .container3 {
+    width: 180px;
+     height: 40px;
+    
+            position: absolute;
+     left: 60px;
+    top: 104px;
+    
+        overflow: visible;
+    }
+
+ .match-records2 {
+    color: rgba(255, 255, 255, 0.64);
+    text-align: left;
+    font: 500 16px/20px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 72px;
+    top: 114px;
+    
+        }
+
+ .panel-right {
+    flex-shrink: 0;
+    width: 469px;
+     height: 333px;
+    
+            position: static;
+    
+        }
+
+ .profile {
+    width: 300px;
+     height: 64px;
+    
+            position: static;
+    
+        }
+
+ .container4 {
+    background: rgba(255, 255, 255, 0.08);
+    width: 300px;
+     height: 64px;
+    
+            position: absolute;
+     left: 310px;
+    top: 62px;
+    
+        }
+
+ .avatar {
+    width: 64px;
+     height: 64px;
+    
+            position: static;
+    
+        }
+
+ .avatar2 {
+    width: 64px;
+     height: 64px;
+    
+            position: absolute;
+     left: 310px;
+    top: 62px;
+    
+        overflow: visible;
+    }
+
+ .edit {
+    width: 24px;
+     height: 24px;
+    
+            position: static;
+    
+        }
+
+ .container6 {
+    background: rgba(255, 255, 255, 0.12);
+    width: 24px;
+     height: 24px;
+    
+            position: absolute;
+     left: 350px;
+    top: 102px;
+    
+        }
+
+ .edit2 {
+    width: 16px;
+     height: 16px;
+    
+            position: absolute;
+     left: 354px;
+    top: 106px;
+    
+        overflow: visible;
+    }
+
+ .name {
+    width: 212px;
+     height: 28px;
+    
+            position: static;
+    
+        }
+
+ .container7 {
+    background: rgba(255, 255, 255, 0.16);
+    width: 212px;
+     height: 28px;
+    
+            position: absolute;
+     left: 386px;
+    top: 68px;
+    
+        }
+
+ .iam-vokkus {
+    color: #ffffff;
+    text-align: left;
+    font: 500 16px/16px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 394px;
+    top: 74px;
+    
+        }
+
+ .edit3 {
+    width: 28px;
+     height: 28px;
+    
+            position: static;
+    
+        }
+
+ .container8 {
+    background: rgba(255, 255, 255, 0.12);
+    width: 28px;
+     height: 28px;
+    
+            position: absolute;
+     left: 570px;
+    top: 68px;
+    
+        }
+
+ .edit4 {
+    width: 20px;
+     height: 20px;
+    
+            position: absolute;
+     left: 574px;
+    top: 72px;
+    
+        overflow: visible;
+    }
+
+ .level {
+    width: 212px;
+     height: 16px;
+    
+            position: static;
+    
+        }
+
+ .bar {
+    background: rgba(255, 255, 255, 0.16);
+    width: 212px;
+     height: 16px;
+    
+            position: absolute;
+     left: 386px;
+    top: 104px;
+    
+        }
+
+ .progress {
+    background: #2b47e0;
+    width: 131px;
+     height: 16px;
+    
+            position: absolute;
+     left: 386px;
+    top: 104px;
+    
+        }
+
+ .level-9 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 12px/16px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 394px;
+    top: 104px;
+    
+        }
+
+ ._165-227 {
+    color: #ffffff;
+    text-align: right;
+    font: 500 12px/16px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 545px;
+    top: 104px;
+    
+        }
+
+ .level-up {
+    width: 161px;
+     height: 33px;
+    
+            position: static;
+    
+        }
+
+ .container9 {
+    background: rgba(255, 255, 255, 0.16);
+    width: 156px;
+     height: 28px;
+    
+            position: absolute;
+     left: 618px;
+    top: 62px;
+    
+        }
+
+ .reward {
+    width: 20px;
+     height: 20px;
+    
+            position: absolute;
+     left: 626px;
+    top: 66px;
+    
+        overflow: visible;
+    }
+
+ .level-up-reward {
+    color: #ffffff;
+    text-align: left;
+    font: 500 11px/12px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 650px;
+    top: 70px;
+    
+        }
+
+ .notification2 {
+    background: #e02b2b;
+    border-radius: 50%;
+    
+            position: absolute;
+     right: 6.71%;
+     left: 92.1%;
+     width: 1.2%;
+    bottom: 83.74%;
+     top: 13.83%;
+     height: 2.43%;
+    
+        }
+
+ .game-conduct {
+    width: 156px;
+     height: 28px;
+    
+            position: static;
+    
+        }
+
+ .container10 {
+    background: rgba(255, 255, 255, 0.16);
+    width: 156px;
+     height: 28px;
+    
+            position: absolute;
+     left: 618px;
+    top: 98px;
+    
+        }
+
+ .conduct {
+    width: 20px;
+     height: 20px;
+    
+            position: absolute;
+     left: 626px;
+    top: 102px;
+    
+        overflow: visible;
+    }
+
+ .game-conduct2 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 11px/12px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 650px;
+    top: 106px;
+    
+        }
+
+ .points {
+    width: 28px;
+     height: 28px;
+    
+            position: static;
+    
+        }
+
+ .container11 {
+    background: rgba(255, 255, 255, 0.16);
+    width: 28px;
+     height: 28px;
+    
+            position: absolute;
+     left: 746px;
+    top: 98px;
+    
+        }
+
+ ._100 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 12px/20px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 750px;
+    top: 102px;
+    
+        }
+
+ .career-data {
+    width: 228px;
+     height: 116px;
+    
+            position: static;
+    
+        }
+
+ .container12 {
+    background: rgba(255, 255, 255, 0.08);
+    width: 228px;
+     height: 116px;
+    
+            position: absolute;
+     left: 310px;
+    top: 134px;
+    
+        }
+
+ .header2 {
+    width: 228px;
+     height: 24px;
+    
+            position: static;
+    
+        }
+
+ .container13 {
+    width: 228px;
+     height: 24px;
+    
+            position: absolute;
+     left: 310px;
+    top: 134px;
+    
+        overflow: visible;
+    }
+
+ .career-data2 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 13px/16px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 318px;
+    top: 138px;
+    
+        }
+
+ .rank {
+    width: 30px;
+     height: 56px;
+    
+            position: static;
+    
+        }
+
+ .trophy {
+    width: 22.38px;
+     height: 32px;
+    
+            position: absolute;
+     left: 341px;
+    top: 166px;
+    
+        overflow: visible;
+    }
+
+ .mighty-iron-i {
+    color: #ffffff;
+    text-align: center;
+    font: 500 8px/10px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 337px;
+    top: 202px;
+    
+        display: flex;
+    
+align-items: center;
+    justify-content: center}
+
+ .total-matches {
+    width: 37px;
+     height: 58px;
+    
+            position: static;
+    
+        }
+
+ ._4 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 36px/36px 'SairaCondensed-Medium', sans-serif;
+    
+            position: absolute;
+     left: 416px;
+    top: 164px;
+    
+        }
+
+ .total-matches2 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 8px/10px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 406px;
+    top: 202px;
+    
+        display: flex;
+    
+align-items: center;
+    justify-content: center}
+
+ .battle-accolades {
+    width: 45px;
+     height: 58px;
+    
+            position: static;
+    
+        }
+
+ ._2 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 36px/36px 'SairaCondensed-Medium', sans-serif;
+    
+            position: absolute;
+     left: 488px;
+    top: 164px;
+    
+        }
+
+ .battle-accolades2 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 8px/10px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 474px;
+    top: 202px;
+    
+        display: flex;
+    
+align-items: center;
+    justify-content: center}
+
+ .button-more {
+    width: 228px;
+     height: 20px;
+    
+            position: static;
+    
+        }
+
+ .container14 {
+    background: rgba(255, 255, 255, 0.08);
+    width: 228px;
+     height: 20px;
+    
+            position: absolute;
+     left: 310px;
+    top: 230px;
+    
+        }
+
+ .more {
+    color: #ffffff;
+    text-align: left;
+    font: 500 10px/12px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 410px;
+    top: 234px;
+    
+        }
+
+ .achievements {
+    width: 228px;
+     height: 116px;
+    
+            position: static;
+    
+        }
+
+ .container15 {
+    background: rgba(255, 255, 255, 0.08);
+    width: 228px;
+     height: 116px;
+    
+            position: absolute;
+     left: 546px;
+    top: 134px;
+    
+        }
+
+ .container16 {
+    width: 228px;
+     height: 24px;
+    
+            position: absolute;
+     left: 546px;
+    top: 134px;
+    
+        overflow: visible;
+    }
+
+ .achievements2 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 13px/16px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 554px;
+    top: 138px;
+    
+        }
+
+ .top-achievements {
+    width: 60px;
+     height: 58px;
+    
+            position: static;
+    
+        }
+
+ ._123 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 36px/36px 'SairaCondensed-Medium', sans-serif;
+    
+            position: absolute;
+     left: 568px;
+    top: 164px;
+    
+        }
+
+ .top-achievements2 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 8px/10px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 558px;
+    top: 202px;
+    
+        display: flex;
+    
+align-items: center;
+    justify-content: center}
+
+ .total-points {
+    width: 49px;
+     height: 58px;
+    
+            position: static;
+    
+        }
+
+ ._300 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 36px/36px 'SairaCondensed-Medium', sans-serif;
+    
+            position: absolute;
+     left: 636px;
+    top: 164px;
+    
+        }
+
+ .total-points2 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 8px/10px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 646px;
+    top: 202px;
+    
+        display: flex;
+    
+align-items: center;
+    justify-content: center}
+
+ .hero-achievements {
+    width: 60px;
+     height: 58px;
+    
+            position: static;
+    
+        }
+
+ ._50 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 36px/36px 'SairaCondensed-Medium', sans-serif;
+    
+            position: absolute;
+     left: 716px;
+    top: 164px;
+    
+        }
+
+ .hero-achievements2 {
+    color: #ffffff;
+    text-align: center;
+    font: 500 8px/10px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 702px;
+    top: 202px;
+    
+        display: flex;
+    
+align-items: center;
+    justify-content: center}
+
+ .container17 {
+    background: rgba(255, 255, 255, 0.08);
+    width: 228px;
+     height: 20px;
+    
+            position: absolute;
+     left: 546px;
+    top: 230px;
+    
+        }
+
+ .more2 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 10px/12px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 646px;
+    top: 234px;
+    
+        }
+
+ .favorite-heroes {
+    width: 464px;
+     height: 132px;
+    
+            position: static;
+    
+        }
+
+ .container18 {
+    background: rgba(255, 255, 255, 0.08);
+    width: 464px;
+     height: 132px;
+    
+            position: absolute;
+     left: 310px;
+    top: 258px;
+    
+        }
+
+ .header3 {
+    width: 464px;
+     height: 24px;
+    
+            position: static;
+    
+        }
+
+ .container19 {
+    width: 464px;
+     height: 24px;
+    
+            position: absolute;
+     left: 310px;
+    top: 258px;
+    
+        overflow: visible;
+    }
+
+ .favorite-heroes2 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 13px/16px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 318px;
+    top: 262px;
+    
+        }
+
+ .capt-marvel {
+    width: 72px;
+     height: 72px;
+    
+            position: static;
+    
+        }
+
+ .container20 {
+    background: #c4c4c4;
+    
+    border-style: solid;
+     
+    border-color: rgba(253, 230, 170, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 330px;
+    top: 290px;
+    
+        }
+
+ .container21 {
+    background: radial-gradient(closest-side, rgba(255, 255, 255, 1.00) 0%,rgba(210, 148, 26, 0.00) 100%), radial-gradient(closest-side, rgba(209, 165, 9, 1.00) 0%,rgba(114, 48, 0, 1.00) 100%);
+    
+    border-style: solid;
+     
+    border-color: rgba(253, 230, 170, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 330px;
+    top: 290px;
+    
+        }
+
+ .capt-marvel2 {
+    
+    border-style: solid;
+     
+    border-color: rgba(253, 230, 170, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 330px;
+    top: 290px;
+    
+        }
+
+ .black-panther {
+    width: 72px;
+     height: 72px;
+    
+            position: static;
+    
+        }
+
+ .container22 {
+    background: #c4c4c4;
+    
+    border-style: solid;
+     
+    border-color: rgba(219, 219, 219, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 418px;
+    top: 290px;
+    
+        }
+
+ .container23 {
+    background: radial-gradient(closest-side, rgba(171, 171, 171, 1.00) 0%,rgba(73, 73, 73, 0.00) 100%), radial-gradient(closest-side, rgba(69, 69, 69, 1.00) 0%,rgba(0, 0, 0, 1.00) 100%);
+    
+    border-style: solid;
+     
+    border-color: rgba(219, 219, 219, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 418px;
+    top: 290px;
+    
+        }
+
+ .black-panther2 {
+    
+    border-style: solid;
+     
+    border-color: rgba(219, 219, 219, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 418px;
+    top: 290px;
+    
+        }
+
+ .magneto {
+    width: 72px;
+     height: 72px;
+    
+            position: static;
+    
+        }
+
+ .container24 {
+    background: #c4c4c4;
+    
+    border-style: solid;
+     
+    border-color: rgba(222, 111, 163, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 594px;
+    top: 290px;
+    
+        }
+
+ .container25 {
+    background: radial-gradient(closest-side, rgba(226, 83, 169, 1.00) 0%,rgba(177, 0, 106, 0.00) 100%), radial-gradient(closest-side, rgba(229, 76, 141, 1.00) 0%,rgba(63, 0, 49, 1.00) 100%);
+    
+    border-style: solid;
+     
+    border-color: rgba(222, 111, 163, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 594px;
+    top: 290px;
+    
+        }
+
+ .magneto2 {
+    
+    border-style: solid;
+     
+    border-color: rgba(222, 111, 163, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 594px;
+    top: 290px;
+    
+        }
+
+ .groot {
+    width: 72px;
+     height: 72px;
+    
+            position: static;
+    
+        }
+
+ .container26 {
+    background: #c4c4c4;
+    
+    border-style: solid;
+     
+    border-color: rgba(121, 207, 124, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 682px;
+    top: 290px;
+    
+        }
+
+ .container27 {
+    background: radial-gradient(closest-side, rgba(243, 234, 0, 1.00) 0%,rgba(5, 116, 16, 0.00) 100%), radial-gradient(closest-side, rgba(21, 123, 80, 1.00) 0%,rgba(0, 53, 31, 1.00) 100%);
+    
+    border-style: solid;
+     
+    border-color: rgba(121, 207, 124, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 682px;
+    top: 290px;
+    
+        }
+
+ .groot2 {
+    
+    border-style: solid;
+     
+    border-color: rgba(121, 207, 124, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 682px;
+    top: 290px;
+    
+        }
+
+ .black-widow {
+    width: 72px;
+     height: 72px;
+    
+            position: static;
+    
+        }
+
+ .container28 {
+    background: #c4c4c4;
+    
+    border-style: solid;
+     
+    border-color: rgba(200, 87, 87, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 506px;
+    top: 290px;
+    
+        }
+
+ .container29 {
+    background: radial-gradient(closest-side, rgba(255, 110, 29, 1.00) 0%,rgba(92, 6, 6, 0.00) 100%), radial-gradient(closest-side, rgba(178, 12, 12, 1.00) 0%,rgba(49, 0, 0, 1.00) 100%);
+    
+    border-style: solid;
+     
+    border-color: rgba(200, 87, 87, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 506px;
+    top: 290px;
+    
+        }
+
+ .black-widow2 {
+    
+    border-style: solid;
+     
+    border-color: rgba(200, 87, 87, 0.24);
+    
+    border-width: 2px;
+    
+    width: 72px;
+     height: 72px;
+    
+            position: absolute;
+     left: 506px;
+    top: 290px;
+    
+        }
+
+ .button-more2 {
+    width: 464px;
+     height: 20px;
+    
+            position: static;
+    
+        }
+
+ .container30 {
+    background: rgba(255, 255, 255, 0.08);
+    width: 464px;
+     height: 20px;
+    
+            position: absolute;
+     left: 310px;
+    top: 370px;
+    
+        }
+
+ .more3 {
+    color: #ffffff;
+    text-align: left;
+    font: 500 10px/12px 'Saira-Medium', sans-serif;
+    
+            position: absolute;
+     left: 528px;
+    top: 374px;
+    
+        }
+
